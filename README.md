@@ -1,1 +1,1 @@
-# NFT_Preview_Card_component-Solution
+# NFT_Preview_Card_component
